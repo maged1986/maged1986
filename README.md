@@ -28,6 +28,5 @@ Experienced Android developer with **8+ years** of designing, developing, and ma
 
 ---
 
-
 ### 📫 Connect with me:
 [LinkedIn]([https://www.linkedin.com/in/maged-nan/](https://www.linkedin.com/in/maged-nan-android-dev-java-kotlin/) | [cite_start]Emagednan12@gmail.com 
