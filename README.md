@@ -22,9 +22,9 @@ Experienced Android developer with **8+ years** of designing, developing, and ma
 ---
 
 ### 🏆 Featured Projects
-* **AEG Codechella App:** Built with Kotlin, MVI/MVVM, Hilt, and Coroutines.
-* **1909 Pharmacies:** A high-performance app using modern Android Jetpack components.
-* **Movies TV App:** Specialized TV development using Leanback and Jetpack Compose.
+* **Wallpaper-App App:** Built with Kotlin, MVI/MVVM, Hilt, and Coroutines.
+* **MortyApp :** A high-performance app using modern Android Jetpack components.
+* **JobHunte App:** Specialized TV development using Leanback and Jetpack Compose.
 
 ---
 
