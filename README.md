@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Maged Nan
 
 ### 🚀 Senior Android Developer | 8+ Years of Experience
-[cite_start]Experienced Android developer with **8+ years** of designing, developing, and maintaining high-performance mobile applications. [cite_start]Proficient in **Java (6 yrs)** and **Kotlin (4 yrs)**, with deep expertise in modern architectures and UI frameworks[cite: 6, 46].
+Experienced Android developer with **8+ years** of designing, developing, and maintaining high-performance mobile applications. Proficient in **Java (6 yrs)** and **Kotlin (4 yrs)**, with deep expertise in modern architectures and UI frameworks
 
 ---
 
