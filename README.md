@@ -6,11 +6,11 @@ Experienced Android developer with **8+ years** of designing, developing, and ma
 ---
 
 ### 🛠 Technical Expertise
-* [cite_start]**Languages:** Kotlin, Java, C++/NDK.
-* [cite_start]**Architecture:** MVI, MVVM, MVC, S.O.L.I.D Principles, and Design Patterns.
-* [cite_start]**Modern UI:** Jetpack Compose, Material Design, and Android TV App Development.
-* [cite_start]**Libraries:** Dagger/Hilt, Coroutines, Flow, RxJava, Retrofit, Room, and Firebase.
-* [cite_start]**Quality Assurance:** Unit/UI Testing (JUnit, Espresso, Mockito), TDD, and CI/CD pipelines.
+* **Languages:** Kotlin, Java, C++/NDK.
+* **Architecture:** MVI, MVVM, MVC, S.O.L.I.D Principles, and Design Patterns.
+* **Modern UI:** Jetpack Compose, Material Design, and Android TV App Development.
+* **Libraries:** Dagger/Hilt, Coroutines, Flow, RxJava, Retrofit, Room, and Firebase.
+* **Quality Assurance:** Unit/UI Testing (JUnit, Espresso, Mockito), TDD, and CI/CD pipelines.
 
 ---
 
