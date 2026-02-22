@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Magued
+# Hi there 👋, I'm Maged Nan
 
 I am a **Senior Android Developer** with more than **8 years of experience**. I specialize in building high-quality, scalable mobile applications using Modern Android Stack.
 
