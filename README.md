@@ -28,13 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maged1986&show_icons=true&theme=radial&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maged1986&layout=compact&theme=radial&hide_border=true" width="300" />
-</p>
-
----
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/maged-nan/) | [cite_start]Emagednan12@gmail.com [cite: 2]
+[LinkedIn]([https://www.linkedin.com/in/maged-nan/](https://www.linkedin.com/in/maged-nan-android-dev-java-kotlin/) | [cite_start]Emagednan12@gmail.com [cite: 2]
